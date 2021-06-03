@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dreadful oration deliver'd by that sorely afflicted saint, Stephen Lobb held forth to the brethren since his last retirement, (at a private meeting by night to escape persecution,) in his antient meeting-house, near Swallow-Street, not far from that famous Whigg-Sqvare.</title>
+            <author>Lobb, Stephen, d. 1699.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48859</idno><idno type="EEBO-CITATION">12402546</idno>
+  <idno type="VID">61296</idno>
+  <idno type="EEBO-PROQUEST">2240969396</idno>
+  
+            <idno type="STC">Wing L2723</idno>
+            <idno type="STC">ESTC R20257</idno>
+            <idno type="OCLC">12402546</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61296)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 767:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dreadful oration deliver'd by that sorely afflicted saint, Stephen Lobb held forth to the brethren since his last retirement, (at a private meeting by night to escape persecution,) in his antient meeting-house, near Swallow-Street, not far from that famous Whigg-Sqvare.</title>
+                  <author>Lobb, Stephen, d. 1699.</author>
+               </titleStmt>
+               <extent>[2], 18, [1] p. : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.T. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61296:1"/>
+            <p>A Dreadful Oration Deliver'd by that sorely afflicted Saint, STEPHEN LOBB. Held forth to the Brethren, Since his last Retirement, (At a Private Meeting by Night, to Escape PERSECUTION,) In his Antient <hi>Meeting-House,</hi> near <hi>SWALLOW-STREET.</hi> Not far from that Famous <hi>WHIGG-SQƲARE.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Behold! the Net is fall'n upon Us; Yea, the Righteous are Taken in the very height of their</hi> Gonspiracy.</p>
+            </q>
+            <p>Printed by <hi>N.T.</hi> at the entrance into the <hi>Old Spring Garden</hi> near <hi>Charing-Cross.</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:61296:2"/>
+            <pb n="1" facs="tcp:61296:2"/>
+            <head>A Dreadful Oration Delivered by that sorely afflicted Saint, STEPHEN LOBB, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Behold! the Net is fall'n upon Ʋs; yea, the Righteous are taken, in the Height of their</hi> Conspiracy.</p>
+               </q>
+            </epigraph>
+            <p>THe Words are very Copious; Nay they are usher'd in, or introduc'd with a Be<g ref="char:EOLhyphen"/>hold! A Sentence in one Word. Yea, I may say a Volume comprehended in two Sillables: As if it had been pointed out for an unfolder of Words: A Miracle produc'd out of six Letters; A Charm to confine your Thoughts to Admiration of what will follow. — As thus.</p>
+            <p>Behold! That is, stand still; keep thy Eye stead<g ref="char:EOLhyphen"/>fast, and thou shalt have a Riddle explain'd through those Opticks, thy Eyes to thy understanding.</p>
+            <p>Behold thou shalt see men Executed for Tray<g ref="char:EOLhyphen"/>tors; as we have many.</p>
+            <p>Behold with what carefulness they Suffer'd; as they did all.</p>
+            <pb n="2" facs="tcp:61296:3"/>
+            <p> Behold! That is, listen to their dying Words; And thou shalt find a <hi>Not Guilty</hi> in all their Mouths.</p>
+            <p>Behold a stedfast perseverance to the last, without the least complaining against, or murmuring at the Justice of the Law, because corrupted by the Per<g ref="char:EOLhyphen"/>jury of Slaves in Pay. But here is a <hi>Behold!</hi> M. r. ching in the Front of a Complaint. A <hi>Behold</hi> that leads the Harlot <hi>Rebellion</hi> blinded in bloody Secu<g ref="char:EOLhyphen"/>rity, to the hand of Justice, and there unveils her. Here is a People that call themselves the <hi>Righteous,</hi> the Elect of the Land. And yet Behold <hi>They are taken in the Height of their Conspiracy.</hi>
+            </p>
+            <p>In the Words, you have these Four Heads.</p>
+            <list>
+               <item>First, you have a Citation to imploy the Light of the Body, the Eye, in the Word <hi>Behold.</hi>
+               </item>
+               <item>Secondly, you have the Object; or the People under Confinement, in the Words following, <hi>The Net is fallen upon Us.</hi>
+               </item>
+               <item>Thirdly, who they are intangl'd in this Snare, and that is the <hi>Righteous.</hi>
+               </item>
+               <item>Fourthly, and lastly; it shews the time when; which is, <hi>In the Height of their Conspiracy.</hi>
+               </item>
+            </list>
+            <p>I begin with the First Point.</p>
+            <p>Behold we are become a by-word. The Subject of every ealy-spleen'd Loyalist to imploy his Ta<g ref="char:EOLhyphen"/>lent. Our Profession is become like a Painted Sepul<g ref="char:EOLhyphen"/>chre,
+<pb n="3" facs="tcp:61296:3"/>whose fair out-side this Discovery has Sullied: and expos'd our Putrefaction to publick view. Be<g ref="char:EOLhyphen"/>hold Me, your Soul-saving Instructer, receiving the Sacrament at the Church in the Morning, to ena<g ref="char:EOLhyphen"/>ble me to be Guardian to the Babes of a Deceased Brother: And then Behold the Cloak of Fraud put on (to lye, and betray your Souls, and your Purses) at a <hi>Meeting-House</hi> in the Afternoon.</p>
+            <p>Behold! Our Brother <hi>Bull,</hi> wallowing in the Suds of the Creature at the dore of Iniquity. Behold! <hi>Ness,</hi> a Teacher of Seperation, (next door to the <hi>Scotch-Hall</hi>) selling Seditious Phamphlets to his Re<g ref="char:EOLhyphen"/>bellious cram'd Auditors.</p>
+            <p>Behold! Us all a Cheat, and you the Cheate<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>Behold! Our City's Head-Officer, Cheating Ma<g ref="char:EOLhyphen"/>dam <hi>Creswel</hi> of the Wages of Fornication.</p>
+            <p>Behold! Sir <hi>Patience Ward,</hi> in the Height of Re<g ref="char:EOLhyphen"/>bellion, putting a sham Inscription round the <hi>Monu<g ref="char:EOLhyphen"/>ment,</hi> to insense the Rabble: and now behold him hiding in a Garret, to shelter him from the Justice of the Law, for Perjury.</p>
+            <p>Behold! Sir <hi>William Waller,</hi> with the <hi>True Blew Party,</hi> Disarining the Kings Friends, to Arm them<g ref="char:EOLhyphen"/>selves against his Life. Yea, behold him buring the Picture of his Saviour, under the pretence of Rooting out <hi>Separation;</hi> and yet behold him, setting up a
+<pb n="4" facs="tcp:61296:4"/>Rebellious Son against his Father, and Sovereigns life for the Image of a King.</p>
+            <p>Behold! <hi>Bethel</hi> (the <hi>True. Protestant</hi> Sheriff) in the time of the <hi>Popish-Plot,</hi> contriving. Treason in a Garrer; And then behold him Carving it out at a Nine-peny Ordinary.</p>
+            <p>Behold him cheating the Prisoners of their usual Allowance; And now behold he's fled to avoid the Goal.</p>
+            <p>Behold Evidence <hi>Oates</hi> throng'd after and admi<g ref="char:EOLhyphen"/>red, for the non-sense of <hi>Phanatick</hi> pleasing Sermons in Railing against the Whore of <hi>Babylon:</hi> And now behold him joyning with that Baud to Rebellion, <hi>Phanatism.</hi>
+            </p>
+            <p>Behold him the Master Evidence in the <hi>Popish Plot:</hi> but behold too many truths to be sworn, to imploy him in our <hi>Phanatical Conspiracy.</hi>
+            </p>
+            <p>Behold his Brother <hi>Prance</hi> calling for Wine at <hi>Tory Bowmans,</hi> and behold his Dog would allow him none but the dropping of his Tap; by which you may be<g ref="char:EOLhyphen"/>hold now Honesty has the upper-hand, that Mur<g ref="char:EOLhyphen"/>derers, and the Saviours of the Nation are slighted.</p>
+            <p>Behold my Lord <hi>Russel</hi> turning away the Clerk his Kitchen for being Loyal, and drinking the King and Dukes Health: then behold him proclaiming his Innocence by an equivocating Confession.</p>
+            <pb n="5" facs="tcp:61296:4"/>
+            <p> Behold the <hi>Green-Ribbon-Club</hi> Caballing of Trea son, but then behold <hi>Tory R</hi>— with his Inven<g ref="char:EOLhyphen"/>tion of the Scarlet Ribbon; (in opposition to theirs) expressing his Loyalty.</p>
+            <p>Behold him in the height of the <hi>Popish Plot,</hi> Sing<g ref="char:EOLhyphen"/>ing <hi>Tory</hi> Songs: And behold their consequence come home to our Doors.</p>
+            <p>Behold us teaching Sedition in spight of the Go<g ref="char:EOLhyphen"/>vernment: And behold <hi>Gillo</hi> laying us open, in his Books called <hi>Ferguson's Lamentation, &amp;c.</hi>
+            </p>
+            <p>By this you may plainly behold what we are: And you have beheld what the Sufferers in the late <hi>Popish Plot</hi> were. There was <hi>Not Guilty,</hi> by the hopes of Salvation at the very brink of Eternity.</p>
+            <p>But behold We Confess as soon as Apprehended. Their Innocence wou'd rather let them stay to be Executed, than Fly, or stain their Guiltless Consci<g ref="char:EOLhyphen"/>ences with a false Confession; but We were all upon the wing, so soon as our black Designs were Dis<g ref="char:EOLhyphen"/>cover'd.</p>
+            <p>Behold the King as He's the Fountain of Honour: So He imitates His Maker in His unbounded Mercy. And yet behold Us, (who are Streams of that Foun<g ref="char:EOLhyphen"/>tain,) striving to dam up their Sluices, and stop their Current for ever. Nay, behold Us poysoning the Dukes Fame, (if We mist our T<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yterous stroak) in
+<pb n="6" facs="tcp:61296:5"/>laying the Murder of the King on his Un-imitable Love towards him.</p>
+            <p>But now <hi>Behold the Net is fallen upon Us,</hi> and Justice gives us our Reward: Which words bring me to the second thing observable in my <hi>Text;</hi> which is the Object, or the People under Confine<g ref="char:EOLhyphen"/>ment; in the words <hi>the Net is fallen upon Us:</hi> I shall strive here to explain what We are in a general Sense. We are generally taken notice to be, <hi>Stallions, Pimps, Whores,</hi> and <hi>Bawds;</hi> that is thus. The Heads of our Faction, are <hi>Stallions</hi> to the Genteeler sort of our <hi>Assosiates Wives.</hi> Those Gentlemen Rebels, are <hi>Stallions</hi> to the better sort of the <hi>City Wives.</hi> The Citizens are <hi>Pimps,</hi> and <hi>Wittals,</hi> in introducing them, and holding the Door. Their <hi>Wives</hi> are <hi>Insatiate Strumpets,</hi> with unsatisfy'd Appetites. Their Mothers are <hi>Bawds</hi> for keeping others in discourse, till him that is in Action has dispatch'd his Errant, and con<g ref="char:EOLhyphen"/>vey'd out at a back-door. This is in their Carnal Sense. Nay they are the same in that (we call) a Spi<g ref="char:EOLhyphen"/>ritual Sense; the Heads of our Faction take a great deal of pains from place, to place, from one County to another; nay from <hi>Exeter</hi> our Party met <hi>M—th Armstrong,</hi> and others of our Faction, with Shouts, and Huzza's of great Joy; And these Popular Tray<g ref="char:EOLhyphen"/>tors all the time <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awn'd upon them, Debauching,
+<pb n="7" facs="tcp:61296:5"/>and seducing those a degree beneath them, to be Re<g ref="char:EOLhyphen"/>bels, with promises of great Preferment; And Offi<g ref="char:EOLhyphen"/>ces, where great Revenues should come in, with a contentious Liberty at the end. And therefore are <hi>Stallions</hi> in that Rebellious Toyl.</p>
+            <p>Those Gentlemen Rebels are <hi>Stallions,</hi> by In<g ref="char:EOLhyphen"/>fecting the Citizen, with <hi>stand up for your Liberties and Properties; and down with Popery, and Tyrany.</hi> With <hi>stand up for a</hi> Commonwealth, <hi>and down with</hi> Monar<g ref="char:EOLhyphen"/>chy. With <hi>have a care of going to Bed, and rising the next Morning with your Throats Cut.</hi> With <hi>have a care of being Slaves to a Forreign Nation</hi> With <hi>stand up for that Witch-craft Rebellion;</hi> And cut the Kings Throat in private, for Conscience Sake.</p>
+            <p>The Citizens, are <hi>Pimps</hi> to the second part of the <hi>Good Old Cause;</hi> by taking, Rebellion, to distribute it at second hand. For drawing in the <hi>Mobile,</hi> and blinding their eyes with that Factious Harlot Irreligi<g ref="char:EOLhyphen"/>ous Liberty; which would prove Slavery. In sedu<g ref="char:EOLhyphen"/>cing the <hi>Plebeians,</hi> to Ingender with that Whore <hi>Se<g ref="char:EOLhyphen"/>dition;</hi> when they should be Wedded to that chast Spouse, called <hi>Loyalty.</hi> Their Wives are Whores, in that (we call) a Spiritual Sense, because their <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> is only out-side. Their Zealous Sighs, not from the Heart; but from the Custom of known <hi>Hypo<g ref="char:EOLhyphen"/>cracy.</hi> They refuse to be Servants to that true Church
+<pb n="8" facs="tcp:61296:6"/>Establish'd by Law, And joyn themselves to that bastard Church <hi>Seperation,</hi> establish'd by that true Fa<g ref="char:EOLhyphen"/>ther of it, the Devil. And We are his Predecessors, of the same Infernal Order: And by reason of the admi<g ref="char:EOLhyphen"/>rable Qualifications; <hi>The Net is fall'n upon Us.</hi> But I had almost forgot, the <hi>Bawd</hi> of our Religion, (as we call it.) This is one, whose Education from her youth was <hi>Non-conformity;</hi> one that has habited her self to Sin, from her very Cradle: That she's become, like him who invents a Story, and tells it so often till he thinks it Truth. So she by Custom is enslav'd to this <hi>Ignis Fatuus;</hi> and thinks it a true Light: And therefore is <hi>Bawd</hi> to her own Children in bringing them up to her broad and beaten Road that leads to perdition; and thinks them Damn'd if they take to the Path that directs to Happiness,</p>
+            <p>For we, that had such bloody Designs, to Assassi<g ref="char:EOLhyphen"/>nate our Sovereign and His dearest Brother: And after that imbrew our hands in the Bowels of all Their Honest, Loyal, Loving Subjects; Fleying them alive, and stuffing their Skins to be hung up in Publick Halls, for a Monument of our Zealous Cru<g ref="char:EOLhyphen"/>elty: I say we that had laid a <hi>Conspiracy</hi> of such ine<g ref="char:EOLhyphen"/>vitable Ruine, to the whole Land (but those of our <hi>Religion-destroying Party</hi>) look'd on these Carnal and Sham <hi>Religious</hi> Endowments, as Natural: For that
+<pb n="9" facs="tcp:61296:6"/>opinion, that's founded on blood, will exempt no Sin from being an Article of their Faith. And therefore I am sure they must all be <hi>Guilty</hi> of what they are here accus'd. What pains did our Head, (and that Prince-hectoring Villain <hi>Shaftsbury,</hi>) take, to prove the King Married, to that Murdering Rebels Mother; with the Hell-bred invention of a writing inclos'd in a <hi>Black Box:</hi> when the King by His Royal <hi>Procla<g ref="char:EOLhyphen"/>mation</hi> had declar'd him Illegitimate. But when this <hi>Leech,</hi> of Rebellion, left to be the blood-sucker of <hi>Loyalty:</hi> Then this Natural Lump, and Clod of second-hand Policy, lost the Brains that this Damn'd Matchiavillian <hi>Hell-Hound</hi> carried for him. And so our Designs droop'd, for want of his Councils to countenance our <hi>Conspiracy:</hi> but he's only gone, to prepare a place for our Party, which are Travelling after him: and will shortly bear him company, in the place where he sits head (as he did amongst Us here) of all our <hi>Phanatical Blunderbus Saints:</hi> For behold we are discover'd, and <hi>the Net is fall'n upon Us.</hi> And that leads me to the third particular or head of my <hi>Text,</hi> which shews who they are intangled in this Snare: and that is the <hi>Righteous.</hi> Who are dis<g ref="char:EOLhyphen"/>cover'd by the actions of a sincere Life, and pious Conversation. By an unblamable walking, with all Conformity to the Laws of their Sovereign; by
+<pb n="10" facs="tcp:61296:7"/>their Detestation of every thing that is Evil. In short, by abandoning all <hi>Rebellion,</hi> and putting on the white Spotless Robe of Innocence, and have not we done this? Have not we been sincerely true to the Injustice of our Diabolical Designs? Have not we ventured Damnation, to accomplish our Machi<g ref="char:EOLhyphen"/>nations? Which was more than the <hi>Popish Plotters</hi> could do; for they were brought to their end by our Contrivance. And yet we ventur'd on with the Guilt of their blood upon Us, and upon our Chil<g ref="char:EOLhyphen"/>dren; and the intention of Millions more. If we found whole Families to be Loyal, every individual Soul was to be cut off, with as little of Repentance, as the surprising the King and Duke wou'd have granted them. Tho' we in Murdering their Royal Persons, had sent them Lambs prepar'd for the Sa<g ref="char:EOLhyphen"/>crifice; through their Mercy, Goodness, and unli<g ref="char:EOLhyphen"/>mited Forgiveness: Yet then we knew the Shep<g ref="char:EOLhyphen"/>herds once gone, the Sheep had lain open and be<g ref="char:EOLhyphen"/>come a Prey to our <hi>Wolvish</hi> Natures. For we were so Confirm'd in our bloody Principles, that where e're we found but part of a Family dissaffected to our Holy Proceedings, They had past as Victims to our <hi>Blood-thirsty, Un-alterable Designs,</hi> by the Hands of the rest of the Houshold, who were inten<g ref="char:EOLhyphen"/>ded, nay instructed for their <hi>Butcherly Executioners.</hi>
+               <pb n="11" facs="tcp:61296:7"/>Of whom we had a particular account of all the Streets of every Parish within the City of <hi>London,</hi> yea, of every place within the Lines of Communica<g ref="char:EOLhyphen"/>tion. And our pretentions were to Unite the Prote<g ref="char:EOLhyphen"/>stants to one another, suppress <hi>Popery;</hi> which is coming more violently upon us than ever: There<g ref="char:EOLhyphen"/>fore you that are at Liberty, be ready with your Spits to Roast the <hi>Whore</hi> of <hi>Babylon,</hi> or broyl her upon the Grid-iron, as we design'd to serve Sir <hi>George Jefferies,</hi> and several others of the Kings Councellours. For these are the actions of Sincere, Good, and Well-affected Christians; I say such as we were, and are in all our Principles: Nay to Confirm our Resolu<g ref="char:EOLhyphen"/>tions, upon choosing the late Sheriffs, <hi>North,</hi> and <hi>Rich,</hi> (for fear our Sanctify'd Party should carry the Day) did not a Loyal Man come to him that lives at the <hi>Kings-Head</hi> Tavern at <hi>Charing-Cross,</hi> and desire him to go (knowing him to be a Free-man and a true Cavalier) and give his Vote, and when he came to <hi>Guild-Hall,</hi> did not a <hi>Zealous Brother</hi> to our <hi>Bloody Cause</hi> (meeting him there) intreat him to Vote (but this year) for <hi>Papillion</hi> and <hi>Dubois,</hi> and the next year he may Vote for whom he pleas'd, but he did not hearken to him. Yet this shews how secure we thought our selves of the Prosperity of our <hi>Blood-thirsty Design;</hi> Which had certainly been perform'd,
+<pb n="12" facs="tcp:61296:8"/>had our two Sheriffs stood, <hi>Papillion</hi> and <hi>Dubois</hi> whom we Chose; that we might have had some more <hi>Ignoramus Juries.</hi> It is not necessary to lay our <hi>Brother</hi> open, tho' he's a man that lives by the <hi>Light,</hi> being a Wax-Chandler near <hi>Charing-Cross,</hi> Did we not generally Murmur, nay sometimes talk alowd, that if the King offer'd to take away our <hi>Charter,</hi> He should find <hi>Bloody Noses.</hi> Our Conversation (in outward appearance) was <hi>Yea, Yea,</hi> and <hi>Nay, Nay,</hi> but having stript Us of that Cant, of the thin cover<g ref="char:EOLhyphen"/>ing of our <hi>Hell-black Souls;</hi> you in Legible Cha<g ref="char:EOLhyphen"/>racters, have found, instead thereof, <hi>Blood, Blood, Murder, Murder.</hi>
+            </p>
+            <p>This answer our <hi>Lay-Brethren,</hi> (tho' our Priestly Function is of the Devils Institution) are instructed to give to the Examination of the Loyal Party, (why we will not Conform to the Laws of the Land) That they have seen so much Sanctity of Life, so great Purity in the Conversation of the <hi>Dissenting Assem<g ref="char:EOLhyphen"/>blers,</hi> they were bred up among, that they must be of that opinion, which is to have the Lord in their Mouths, and the Devil in their Hearts and Actions. And can any Conversation be more Pious? Nay, our Wives are as Zealously good as we are, in their way; do they not every time the Spiritual Fit calls upon them to appear at our <hi>Nurseries</hi> of <hi>Bawdry,</hi>
+               <pb n="13" facs="tcp:61296:8"/>and <hi>Conventicling Schools,</hi> give up their Fleshly In<g ref="char:EOLhyphen"/>tercession (by a <hi>Bill</hi> to their <hi>Pastor</hi> and <hi>Instructer</hi>) that the Lord would enable their Husbands to perform Family Duty: which is a hint, either for Us their Teachers, or some lusty young Auditor (of our providing) to supply his place; for we by daily use are acquainted with all their Hands.</p>
+            <p>You call upon Us to Conform to the Government Established, we do, as much as in Us lyes. We have all of Us for these many years last past, sworn to be <hi>Rebellious Villains.</hi> We have sworn to Murder the King and His Dearest Brother, and now you have discover'd Us, you hang Us up like Dogs, hindering the performance of what we have Solemnly Vow'd. And are these Christian-like acts, to make men For<g ref="char:EOLhyphen"/>sworn? Therefore we wou'd avoid the Evil of <hi>Perjury,</hi> and commit the Fact of <hi>Murder</hi> (our beloved <hi>Prin<g ref="char:EOLhyphen"/>ciples</hi>) if you did not prevent Us; for we have the same Inclinations still, but only you clip our Wings, and will not let Us soar so high as the Throne.</p>
+            <p>For which, we ought to power forth our Tears, till by the Streams from our Eyes, we cause a second Flood to destroy the World; which may easily be done, considering the numerous company that are concern'd, in our Unparrallel'd <hi>Conspiracy.</hi> Or (since
+<pb n="14" facs="tcp:61296:9"/>we have mist our Eclipsing the Glory of this Earth<g ref="char:EOLhyphen"/>ly Sun, Moon, and other Planets that have Gradually their Degrees of Greatness from his Glorious Light) now, let us according to the Tenour of our <hi>Religion,</hi> Curse the Sun from the Firmament; the Moon from its Orb; the lesser Planets from their splended Sphears; that a Universal Darkness may cover us all, that had, or have the least hand in this never to be forgotten <hi>Conspiracy.</hi> For the <hi>Devil</hi> and <hi>Shaftsbury</hi> the (greatest <hi>Fiend</hi> of two) has drawn us in, and spot<g ref="char:EOLhyphen"/>ted the <hi>Witnesses</hi> of our Robe, with the <hi>Blood</hi> of the <hi>Innocent,</hi> which is the reason, that we the <hi>Righteous</hi> are taken.</p>
+            <p>And that brings me to the Fourth and last Head in my <hi>Text,</hi> shewing the time when Justice lays hands upon them; and that is, <hi>In the Height of Their</hi> Conspiracy.</p>
+            <p>When the <hi>Blow</hi> was ready to be given, when we had number'd their Royal minutes, when the <hi>Match</hi> (as I may say) was fir'd, and having burnt to such a length, 'twas to discharge the Destroying <hi>Blunderbuss</hi> that would have dash'd in pieces the best of Kings, and truest the Brothers; when we were just come to draw up the Sluices, and let out whole Streams of <hi>Royal Blood.</hi> for that Liberty Enfranchisement we design'd to cry out for, (as we intended with our
+<pb n="15" facs="tcp:61296:9"/>Swords drawn) was to make our selves Libertines, in cutting Loyal Subjects Throats without Remorse, Destroying their Children without pity, Ravishing their Wives, and then Murdering them without Compassion. But at this very time Conscience steps in amongst Us;) which till Then was an utter stran<g ref="char:EOLhyphen"/>ger to our Party;) And cuts the Match asunder, to prevent its burning to the Fatal Powder; and by Miracle turns the destroying Piece upon our Party. Nay, several Cabals we held because we could not agree upon the exact place, (after we mist the stroak at <hi>New-market,</hi>) and we find now, 'twas Di<g ref="char:EOLhyphen"/>vine Providence orders those debates, that always take a particular care of the Lives of Kings, and Princes; That His Majesty might be inform'd of our (I cannot find words horrid enough for it) <hi>Hell-hatch'd Conspiracy.</hi> What Guilt must needs be in the Earl of <hi>Essex,</hi> one of the Head of our Party, and <hi>De<g ref="char:EOLhyphen"/>vil-deluded Greatness,</hi> to cut his own Throat, rather than trust to the Kings never-failing Mercy. Them that suffer'd, confest themselves Guilty of all that's laid to their charge, except the Lord <hi>Russel;</hi> whose deportment at first appearance upon the Scaffold, was like our <hi>Religion,</hi> meerly outside. His actions like one in a great Passion, that would strive to hide his resentment with a forc'd Smile. His Ges<g ref="char:EOLhyphen"/>ture,
+<pb n="16" facs="tcp:61296:10"/>as if he had said, must a man of my vast E<g ref="char:EOLhyphen"/>state, come to expose my life, (nay, lay it down) before men so much beneath me. His <hi>Speech</hi> (which was but little) tended to <hi>Rebellion,</hi> advising the People to Arm themselves against that common Enemy the <hi>Roman Catholicks.</hi> Which was our pre<g ref="char:EOLhyphen"/>tence, when we cut the Kings Head off. That is, (his advise has this meaning,) to bring our selves under the same Predicament with him, (as many of us have already,) that we may receive the same (or the like) punishment; as we are assured we shall all. His Lordship just after the Execution of Viscount <hi>Stafford,</hi> enquiring how he suffer'd? was answered, the Executioner did not perform his Office well; he reply'd, <hi>That he was an</hi> Ignoramus <hi>at it yet, but by that time the next Lord came, he would be more Dex<g ref="char:EOLhyphen"/>terous,</hi> little Dreaming his Honour was to make the next Experiment. Yet so it happens, <hi>That the Righte<g ref="char:EOLhyphen"/>ous are taken in the Height of Their</hi> Conspiracy.</p>
+            <p>But to slip our Necks out of the <hi>Snare,</hi> how do we strive to be in Loyal mens Company, (now the times are turn'd) because we would seem to appear so; Tho' in our Hearts we could cut their Throats. Nay, <hi>Whig S</hi>— follows up and down after <hi>Tory Tom,</hi> and by his good will would never be out of his Company: And every body knows what he
+<pb n="17" facs="tcp:61296:10"/>has been by his Writing. This has wrought upon me to forsake the Devil (our long ador'd Master) and follow <hi>Truth</hi> and <hi>Loyalty;</hi> which I heartily wish you may all. But then methinks (we having been such implacable Villains) I hear the <hi>Loyalists</hi> answer Us, with the Fable of the <hi>Cat</hi> that was Me<g ref="char:EOLhyphen"/>tamorphos'd into a Queen, and was sitting at the Table with all her Delicious Fare before her; her Retinue great to attend her; and all the Grandeur of Majestick Pomp. At length she spies a <hi>Mouse</hi> run cross the Room, she strait leaves her Costly Deli<g ref="char:EOLhyphen"/>cates to catch the <hi>Mouse:</hi> So say They to Us; when<g ref="char:EOLhyphen"/>ever the least opportunity presents it self, we shall be like the <hi>Cat</hi> in following our own Game.</p>
+            <div type="prayer">
+               <pb n="18" facs="tcp:61296:11"/>
+               <head>But to convince them of my Loyalty, I make this hearty Prayer.</head>
+               <p>MAy His Sacred Majesty, live longer than the Evil <hi>Conspirators</hi> against His Unmatchless Life. May His years be renu'd to Reign over His Peo<g ref="char:EOLhyphen"/>ple till Time shall be no more. May Prosperity always Attend His Crown, and Flourish in His Kingdoms. May He be the wonder of the whole World, for His Magnificent Greatness: and may all other Princes Love, Honour, and Admire Him. May His dearest Brother <hi>JAMES</hi> Duke of <hi>York,</hi> always sit next His Heart; And may that Brotherly Love increase to an Immencity. And as the <hi>Trinity</hi> (by Their Union) are Three in One. So may these Two Princes Reign as One; the King in the Throne, and His Royal Highness in His Bosome May all the Royal Family be Patterns of Virtue, to suc<g ref="char:EOLhyphen"/>ceeding Ages. May all the Kings Councellors be wise: And their Councels Fortunately Loyal. And when it shall please the Divine Power to take Him hence, may He be Crown<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with a Diadem of Glory in the <hi>Heaven</hi> of <hi>Heavens, Amen.</hi>
+               </p>
+            </div>
+            <div type="song">
+               <pb facs="tcp:61296:11"/>
+               <head>A LITANY.</head>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <l>LEt <hi>Baxter</hi> teach Sedition on, and Self-will'd Saints Delude.</l>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <l>Let <hi>Bull</hi> his <hi>Whoring</hi> still pursue, yet Cheat the Multitude.</l>
+               <lg>
+                  <l>By's Zealous Leer, and Canting Tone;</l>
+                  <l>May <hi>Associators</hi> Wives,</l>
+                  <l>Be taught to Cheat their Husbands still,</l>
+                  <l>VVith seeming Honest Lives.</l>
+               </lg>
+               <lg>
+                  <l>That <hi>Cuckolds</hi> may so Num'rous be,</l>
+                  <l>Among this Holy Crew,</l>
+                  <l>As <hi>Oxen</hi> all the Land throughout,</l>
+                  <l>Nay, <hi>Horns</hi> upon'em too.</l>
+               </lg>
+               <lg>
+                  <l>That by their Beast-like Marks they may,</l>
+                  <l>To th'<hi>Loyal part</hi> be known,</l>
+                  <l>For Monstrous Traytors 'against the <hi>KING,</hi>
+                  </l>
+                  <l>His Government and Crown.</l>
+               </lg>
+               <lg>
+                  <l>And may at last this Zealous Tribe,</l>
+                  <l>By their Sham Zealous VVives,</l>
+                  <l>Unto the Gallows all be led,</l>
+                  <l>To end their Factious Lives.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
